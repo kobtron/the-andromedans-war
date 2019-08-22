@@ -1,0 +1,49 @@
+Game idea
+
+The basis:
+
+There are enemies in different colors, they try to shoot you with their guns (the bullets also have to color of their owner) if they hit you, you turn into their color, and they will be immune to your shots (if you kill them you will also get their color). You have three lives, but can get additional lives while playing.
+
+Extra idea’s:
+
+Powerups:
+Example: faster gun, shields and granate.
+
+Bullets:
+You have a set amount of bullets each level.
+
+Gun level up:
+You can buy/get better guns.
+
+Other kind of enemies:
+Diffrent kind of enemies wich have diffrent guns.
+
+Bouncy bullets:
+An important thing, bullets bounce to make kt easier for the player to hit the enemies.
+
+And improvedAI for the enemies.
+Improve the AI so they can calculate to fore with bouncy bullets.
+
+
+Some level idea’s:
+
+Level 1
+
+This should be a tutorial level, so you can start with 3 enemies in an easy spot: 1 red 1 blue 1 yellow.
+
+Level 2
+
+In this level you can introduce the players to powerupps. The enemies should be a little bit harder to find but still pretty easy. I think 3 or 4 enemies would be great. All the enemies should still have diffrent colors.
+
+Level 3
+
+In this level you can add 2 enemies wich have the same color, this really makes the game harder because if you kill the other and they are the only one left, you lose because if you kill one of them you turn blue and can’t kill the other one. 4 or 5 enemies, not to many powerupps.
+
+Level 4
+
+In this level you can add a diffrent kind of enemy, a little bit more health and mayby a better gun. You can also add a moving part to make it harder for the player to easely hit the with bouncy bullets. 6 enemies: 2 blue, 2 green, 1 orange (upgraded), 1 yellow. Medium amount of powerups
+
+How i think the game should look like.
+
+I think it should be a floating island, floating in the universe. I think the soldiers should look like slime monster with guns (in their various colors). You can ofcourse do this your way, this is just the way i invision it.
+
